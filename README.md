@@ -2,11 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-<h3 align="center">I'm Ahmed, A passionate software engineer from Egypt.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtaeha" alt="ahmedtaeha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ahmedtaeha" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedtaeha?logo=twitter&style=for-the-badge" alt="ahmedtaeha" /></a> </p>
+# 💫 About Me:
+Just an immigrant from Egypt mashing his keyboard
 
 - 🔭 I’m currently working on **A multiplayer mobile game.**
 
@@ -30,6 +27,11 @@
 </p>
 
 <br/>  
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ahmedtaeha)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+<p align="left"> <a href="https://twitter.com/ahmedtaeha" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedtaeha?logo=twitter&style=for-the-badge" alt="ahmedtaeha" /></a> </p>
 
 
 ## My Skill Set  
@@ -104,14 +106,19 @@
 <br/> 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaeha&hide_border=true&layout=compact" align="center" /></div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedtaeha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmedtaeha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedtaeha&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedtaeha)](https://git.io/streak-stats)" align="center" /></div>
 
 <br/> 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
