@@ -19,7 +19,10 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 📄 Checkout my experiences at [AhmedTaeha.com](AhmedTaeha.com)
 
+
+<br/>
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://twitter.com/ahmedtaeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedtaeha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedtaeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedtaeha" height="30" width="40" /></a>
