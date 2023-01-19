@@ -1,4 +1,6 @@
-<h1 align="center">Top of the mornin to ya 🤠 I'm Ahmed</h1>
+<h1 align="center">Top of the mornin to ya 🤠</h1>
+<h2>Hi I'm Ahmed</h2>
+
 <h3 align="center">A passionate software engineer from Cairo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtaeha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtaeha" /> </p>
