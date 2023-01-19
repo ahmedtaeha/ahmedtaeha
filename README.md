@@ -1,5 +1,5 @@
 <h1 align="center">Top of the mornin to ya 🤠</h1>
-<h2>Hi I'm Ahmed</h2>
+<h2 align="center">Hi I'm Ahmed</h2>
 
 <h3 align="center">A passionate software engineer from Cairo.</h3>
 
