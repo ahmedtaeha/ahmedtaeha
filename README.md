@@ -112,14 +112,7 @@ Just an immigrant from Egypt mashing his keyboard
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedtaeha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-##        Checkout what I'm listening to!
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ataeha2070&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ahmedtaeha&&style=flat-square" align="center" />
