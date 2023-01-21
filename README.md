@@ -15,8 +15,6 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 💬 Ask me about **Java, JavaScript, & Python.**
 
-- 📫 Contact me at **AhmedTaeha@DistrictHut.com**
-
 - 📄 Checkout my experiences at [AhmedTaeha.com](AhmedTaeha.com)
 
 
