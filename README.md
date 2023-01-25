@@ -11,8 +11,6 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedtaeha](https://github.com/ahmedtaeha)
 
-- 📝 I regularly write articles on [https://AhmedTaeha.com/blog](https://AhmedTaeha.com/blog)
-
 - 💬 Ask me about **Java, JavaScript, & Python.**
 
 - 📄 Checkout my experiences at [AhmedTaeha.com](AhmedTaeha.com)
