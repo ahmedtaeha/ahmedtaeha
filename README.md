@@ -7,7 +7,7 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 🔭 I’m currently working on **A multiplayer mobile game.**
 
-- 🌱 I’m currently learning **Flutter & Dart.**
+- 🌱 I’m currently learning **ML & AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedtaeha](https://github.com/ahmedtaeha)
 
