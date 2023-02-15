@@ -13,7 +13,7 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 💬 Ask me about **Java, JavaScript, & Python.**
 
-- 📄 Checkout my experiences at [AhmedTaeha.com](AhmedTaeha.com)
+- 📄 Checkout my experiences at AhmedTaeha.com.
 
 
 <br/>
