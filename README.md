@@ -27,9 +27,7 @@ Just an immigrant from Egypt mashing his keyboard
 
 <br/>  
 
-## 🐦 Latest Tweet
-
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=AhmedTaeha&theme=transparent&response=true&border=true&time=true&icon=user"/></a>
+## 🐦 Checkout my Twitter
 
 <p align="left"> <a href="https://twitter.com/ahmedtaeha" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedtaeha?logo=twitter&style=for-the-badge" alt="ahmedtaeha" /></a> </p>
 
