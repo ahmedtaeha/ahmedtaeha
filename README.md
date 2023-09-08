@@ -27,11 +27,6 @@ Just an immigrant from Egypt mashing his keyboard
 
 <br/>  
 
-## 🐦 Checkout my Twitter
-
-<p align="left"> <a href="https://twitter.com/ahmedtaeha" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedtaeha?logo=twitter&style=for-the-badge" alt="ahmedtaeha" /></a> </p>
-
-
 ## Full Stack Developer  
 <table><tr><td valign="top" width="33%">
 
