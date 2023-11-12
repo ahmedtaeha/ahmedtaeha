@@ -2,10 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>  
 
-Here's a revised presentation of your Full Stack Developer profile, highlighting the specific skills you mentioned:
-
----
-
 ## Full Stack Developer
 
 ### Technical Skills
@@ -63,11 +59,6 @@ Here's a revised presentation of your Full Stack Developer profile, highlighting
     <img src="https://profilinator.rishav.dev/skills-assets/digitalocean-icon.svg" alt="Digital Ocean" height="50" />
   </a>
 </div>
-
----
-
-This layout is streamlined and focuses solely on the technical skills you specified. It provides a clean and professional look, highlighting your expertise in various technologies. Each icon is linked to the official website or a relevant resource for that specific skill, offering an interactive experience for viewers.
-
 <br/> 
 
 
