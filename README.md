@@ -15,18 +15,6 @@ Just an immigrant from Egypt mashing his keyboard
 
 - 📄 Professional Journey: Learn more about my professional experiences and journey in the tech industry at AhmedTaeha.com.
 
-
-<br/>
-<h3 align="left">Connect with me:</h3>
-<hr>
-<p align="left">
-<a href="https://twitter.com/ahmedtaeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedtaeha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedtaeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedtaeha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmedtaeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedtaeha" height="30" width="40" /></a>
-</p>
-
-<br/>  
-
 ## Full Stack Developer  
 <table><tr><td valign="top" width="33%">
 
@@ -100,7 +88,6 @@ Just an immigrant from Egypt mashing his keyboard
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtaeha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <div align="center">
