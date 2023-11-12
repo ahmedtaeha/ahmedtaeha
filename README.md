@@ -54,10 +54,6 @@
   <a href="https://dart.dev/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
   </a>
-  <!-- Digital Ocean -->
-  <a href="https://www.digitalocean.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/digitalocean-icon.svg" alt="Digital Ocean" height="50" />
-  </a>
 </div>
 <br/> 
 
