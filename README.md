@@ -2,18 +2,18 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>  
   
-# 💫 About Me:
+# About Me:
 Just an immigrant from Egypt mashing his keyboard
 
-- 🔭 I’m currently working on **A multiplayer mobile game.**
+- 🚀 Current Project: I'm enthusiastically developing a multiplayer mobile game, leveraging modern technologies to create engaging user experiences.
 
-- 🌱 I’m currently learning **ML & AI.**
+- 🌟 Learning Journey: I'm expanding my expertise in Machine Learning (ML) & Artificial Intelligence (AI) to stay ahead in the fast-evolving tech landscape.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedtaeha](https://github.com/ahmedtaeha)
+- 👨‍💻 Portfolio: Discover my range of projects and contributions at my GitHub.
 
-- 💬 Ask me about **Java, JavaScript, & Python.**
+- 💼 Skills & Expertise: Feel free to reach out to me for insights or collaboration in Java, JavaScript, and Python.
 
-- 📄 Checkout my experiences at AhmedTaeha.com.
+- 📄 Professional Journey: Learn more about my professional experiences and journey in the tech industry at AhmedTaeha.com.
 
 
 <br/>
