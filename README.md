@@ -1,19 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>  
-  
-# About Me:
-Just an immigrant from Egypt mashing his keyboard
-
-- 🚀 Current Project: I'm enthusiastically developing a multiplayer mobile game, leveraging modern technologies to create engaging user experiences.
-
-- 🌟 Learning Journey: I'm expanding my expertise in Machine Learning (ML) & Artificial Intelligence (AI) to stay ahead in the fast-evolving tech landscape.
-
-- 👨‍💻 Portfolio: Discover my range of projects and contributions at my GitHub.
-
-- 💼 Skills & Expertise: Feel free to reach out to me for insights or collaboration in Java, JavaScript, and Python.
-
-- 📄 Professional Journey: Learn more about my professional experiences and journey in the tech industry at AhmedTaeha.com.
 
 ## Full Stack Developer  
 <table><tr><td valign="top" width="33%">
