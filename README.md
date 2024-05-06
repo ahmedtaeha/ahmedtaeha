@@ -42,17 +42,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-  </a>
   <!-- jQuery -->
   <a href="https://jquery.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-  </a>
-  <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
   </a>
 </div>
 <br/> 
