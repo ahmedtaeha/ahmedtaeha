@@ -1,4 +1,4 @@
-## Full Stack Developer
+## Full Stack ML/AI Developer & Cybersecurity Ethical Hacker Specialist
 
 ### Technical Skills
 <div align="center">
