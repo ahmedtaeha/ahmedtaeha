@@ -1,7 +1,1 @@
 # Ahmed Taha
-
-## Research Publications
-
-- **Stubborn or Sycophantic? GEPA-Evolved Prompts Under Pressure** — Zhang, H., Chew, A., Soe, R., Taha, A., Li, R., Shah, A., & Chaudhary, M. (2026). *COLM 2026 Workshop on Efficient Reasoning (to appear).* [\[Publication Page\]](https://ahmedtaha.io/publications/stubborn-or-sycophantic/) [\[OpenReview\]](https://openreview.net/forum?id=5FcGoSA4WJ) [\[PDF\]](https://ahmedtaha.io/documents/Stubborn-or-Sycophantic.pdf)
-- **SpineFairBench: A Counterfactual Benchmark for Auditing Demographic Sensitivity in Spinal Radiology VLM Reports** — Taha, A., Taeha, A., & Ahmadzada, M. (2026). [\[Preprint on ResearchGate\]](https://www.researchgate.net/publication/404620116_SpineFairBench_A_Counterfactual_Benchmark_for_Auditing_Demographic_Sensitivity_in_Spinal_Radiology_VLM_Reports) [\[Code\]](https://github.com/ahmedtaha100/SpineFairBench) [\[Dataset\]](https://huggingface.co/datasets/ahmedtaha100/spinefairbench-artifacts)
-- **MedInsider: A Benchmark for Documentation Integrity in Medical LLM Agents Under Institutional Pressure** — Taha, A., Taeha, A., & Ahmadzada, M. (2026). [\[Preprint on ResearchGate\]](https://www.researchgate.net/publication/405798471_MedInsider_A_Benchmark_for_Documentation_Integrity_in_Medical_LLM_Agents_Under_Institutional_Pressure) [\[Code\]](https://github.com/ahmedtaha100/MedInsider) [\[Dataset\]](https://huggingface.co/datasets/ahmedtaha100/medinsider)
